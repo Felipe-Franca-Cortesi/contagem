@@ -1,2 +1,2 @@
 # contagem
-Contagem regressiva
+[console: ContagemRegressiva] Faça um programa que exiba uma contagem regressiva.
